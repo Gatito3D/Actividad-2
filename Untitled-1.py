@@ -1,5 +1,4 @@
-# Actividad-2
-Programación estructurada. Tarea 2
+
 saldo = float(input("Digite su saldo disponible: "))
 Retirado_hoy = float(input("Digite la cantidad retirada el dia de hoy:  "))
 monto = int(input("Ingrese el monto que desea retirar "))
